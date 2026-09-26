@@ -1,0 +1,22 @@
+[
+  {
+    "id": "spectral-descriptive",
+    "text": "EEG band-power differences are descriptive spectral measurements. A change in alpha, beta, or theta power does not by itself establish a specific cognitive state, emotion, diagnosis, or neural mechanism."
+  },
+  {
+    "id": "preprocessing-context",
+    "text": "EEG amplitude and spectral power depend on preprocessing choices, referencing, artifact handling, recording quality, task context, and the analyzed time window. Interpretation should therefore report the processing context and avoid treating one summary metric as mechanism-specific."
+  },
+  {
+    "id": "condition-comparison",
+    "text": "A within-dataset condition difference can support the statement that a measured feature changed between conditions. Explaining why it changed requires additional experimental controls, converging measures, or prior evidence."
+  },
+  {
+    "id": "brain-behavior-caution",
+    "text": "A statistical association between an EEG feature and behavior does not by itself establish that the EEG feature caused the behavioral change. Causal interpretation requires an appropriate design or intervention."
+  },
+  {
+    "id": "quality-control",
+    "text": "Before interpreting EEG differences, signal quality, artifact contamination, trial counts, and preprocessing consistency should be checked across conditions."
+  }
+]
